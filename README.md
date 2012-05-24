@@ -1,7 +1,7 @@
 #<center>Rethinking the Hybrid App Paradigm</center><br>
 
 
-# Native SplitView with Cordova Cleaver integration
+# Native SplitView with ChildBrowser Modal Presentation
 
 ###Use Cordova 1.7.0+ (iOS) as a component.
 
