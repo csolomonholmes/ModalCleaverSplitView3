@@ -7,6 +7,10 @@
 
 Reference:
 
+[https://github.com/RandyMcMillan/ModalCleaverSplitView3](https://github.com/RandyMcMillan/ModalCleaverSplitView3)
+
+[https://github.com/RandyMcMillan/ModalCleaverSplitView2](https://github.com/RandyMcMillan/ModalCleaverSplitView2)
+
 [https://github.com/RandyMcMillan/ModalCleaverSplitView](https://github.com/RandyMcMillan/ModalCleaverSplitView)
 
 [https://github.com/RandyMcMillan/ModalCleaverView4
@@ -39,19 +43,17 @@ NOTE: To run on iOS 4.2 just disable WebInspector Plugin
 
 <br>
 
-![image](https://github.com/RandyMcMillan/ModalCleaverSplitView/raw/master/landscapehey.png)
-
 ![image](https://github.com/RandyMcMillan/ModalCleaverSplitView/raw/master/landscapehowto.png)
-
-![image](https://github.com/RandyMcMillan/ModalCleaverSplitView/raw/master/portraitnavpopover.png
-)
-
-![https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc1.png](https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc1.png)
-
-![https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc2.png](https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc2.png)
+![image](https://github.com/RandyMcMillan/ModalCleaverSplitView3/raw/master/cbUsage.png)
+![image](https://github.com/RandyMcMillan/ModalCleaverSplitView3/raw/master/cbUsage2.png)
 
 
-![https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc3.png](https://github.com/RandyMcMillan/ModalCleaverSplitView2/raw/master/MrImageProc3.png)
+
+
+
+
+
+
 
 The MIT License
 
